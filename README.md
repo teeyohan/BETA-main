@@ -1,6 +1,6 @@
 # BETA-main
 
-PyTorch implementation of perturBed wEight acTive leArning (BETA).
+PyTorch implementation of "BETA: An Active Learning Strategy through Weight Perturbation for Images, Texts, and Molecules".
 
 <div align="center">
   <img width="90%" alt="" src="beta.png">
