@@ -11,7 +11,7 @@ The code includes the implementations of all the baselines presented in the pape
 ## Setup
 The dependencies are in requirements.txt. Python=3.8 is recommended for the installation of the environment.
 
-## Datasets
+## Dataset
 It is recommended to download the following datasets from the official website and place them in the "BETA-main/data/" directory:
 - MNIST: https://yann.lecun.com.
 - IMDB: https://developer.imdb.com.
