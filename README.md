@@ -18,6 +18,6 @@ It is recommended to download the following datasets from the official website a
 - BACE: https://moleculenet.org.
 
 ## Training
-For WPAL training, use the following script:
+For BETA training, use the following script:
 
 - `python main.py`
