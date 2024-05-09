@@ -3,7 +3,7 @@
 PyTorch implementation of perturBed wEight acTive leArning (BETA).
 
 <div align="center">
-  <img width="100%" alt="" src="beta.png">
+  <img width="90%" alt="" src="beta.png">
 </div>
 
 The code includes the implementations of all the baselines presented in the paper. Parts of the code are borrowed from https://github.com/AminParvaneh/alpha_mix_active_learning.
@@ -21,7 +21,3 @@ It is recommended to download the following datasets from the official website a
 For WPAL training, use the following script:
 
 - `python main.py`
-
-## Citing
-
-...
