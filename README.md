@@ -3,9 +3,7 @@
 PyTorch implementation of perturBed wEight acTive leArning (BETA).
 
 <div align="center">
-  <img width="30%" alt="Extraction" src="Extraction.png">
-  <img width="30%" alt="Perturbation" src="Perturbation.png">
-  <img width="30%" alt="Filtration" src="Filtration.png">
+  <img width="100%" alt="" src="beta.png">
 </div>
 
 The code includes the implementations of all the baselines presented in the paper. Parts of the code are borrowed from https://github.com/AminParvaneh/alpha_mix_active_learning.
