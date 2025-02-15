@@ -3,7 +3,7 @@
 PyTorch implementation of "BETA: An Epistemic-based Active Learning Strategy for Grid, Sequence, and Graph Classification".
 
 <div align="center">
-  <img width="90%" alt="" src="beta.png">
+  <img width="90%" alt="" src="BETA.png">
 </div>
 
 Parts of the code are borrowed from https://github.com/AminParvaneh/alpha_mix_active_learning.
