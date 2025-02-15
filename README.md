@@ -3,7 +3,7 @@
 PyTorch implementation of "BETA: An Epistemic-based Active Learning Strategy for Grid, Sequence, and Graph Classification".
 
 <div align="center">
-  <img width="90%" alt="" src="BETA.png">
+  <img width="80%" alt="" src="BETA.png">
 </div>
 
 Parts of the code are borrowed from https://github.com/AminParvaneh/alpha_mix_active_learning.
@@ -31,3 +31,7 @@ The pretrained weights of ViT can be download from:
 For training and evaluation, use the following script:
 
 - `python main.py`
+
+, where the perturbation magnitude can be estimated using:
+
+- `python determination.py`
