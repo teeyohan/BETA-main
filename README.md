@@ -20,14 +20,14 @@ It is recommended to download the following datasets from the official website:
 
 , and place them in the "BETA-main/data/" directory.
 
-## Weights
+## Weight
 The pretrained weights of ViT can be download from:
 
 - https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py
 
 , and place them in the "BETA-main/weights/" directory.
 
-## Training
+## Training and evaluation
 For training and evaluation, use the following script:
 
 - `python main.py`
