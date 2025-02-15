@@ -13,14 +13,18 @@ The dependencies are in requirements.txt. Python=3.8 is recommended for the inst
 
 ## Dataset
 It is recommended to download the following datasets from the official website:
+
 - MNIST: https://yann.lecun.com.
 - IMDB: https://developer.imdb.com.
 - BACE: https://moleculenet.org.
+
 , and place them in the "BETA-main/data/" directory.
 
 ## Weights
 The pretrained weights of ViT can be download from:
-https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py
+
+- https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py
+
 , and place them in the "BETA-main/weights/" directory.
 
 ## Training
