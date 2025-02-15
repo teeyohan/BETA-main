@@ -17,6 +17,9 @@ It is recommended to download the following datasets from the official website a
 - IMDB: https://developer.imdb.com.
 - BACE: https://moleculenet.org.
 
+## Weights for ViT
+
+
 ## Training
 For training and evaluation, use the following script:
 
