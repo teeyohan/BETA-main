@@ -1,6 +1,6 @@
 # BETA-main
 
-PyTorch implementation of "BETA: An Epistemic-based Active Learning Strategy for Images, Texts, and Molecules".
+PyTorch implementation of "BETA: An Epistemic-based Active Learning Strategy for Grid, Sequence, and Graph Classification".
 
 <div align="center">
   <img width="90%" alt="" src="beta.png">
