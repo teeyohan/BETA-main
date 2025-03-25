@@ -6,8 +6,6 @@ PyTorch implementation of "BETA: An Epistemic-based Active Learning Strategy for
   <img width="80%" alt="" src="BETA.png">
 </div>
 
-Parts of the code are borrowed from https://github.com/AminParvaneh/alpha_mix_active_learning.
-
 ## Setup
 The dependencies are in requirements.txt. Python=3.8 is recommended for the installation of the environment.
 
